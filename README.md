@@ -4,3 +4,4 @@ Separation of the bsadmin template to components with vue
 
 Bsadmin verilen düz html css şablonun vue'de bileşenlere ayrılması  ,
 
+![Open in Visual Studio Code](https://imgyukle.com/f/2022/03/02/EHimAS.png)
